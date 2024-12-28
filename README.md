@@ -1,7 +1,5 @@
 # NLP-Project-Articles-on-AI
 
-Here's the rewritten text in the desired tone for a README file:
-
 ---
 
 ## Project Overview
